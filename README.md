@@ -6,7 +6,7 @@ A web app with three tools for manufacturing operations: find what keeps breakin
 - **OEE Dashboard**: calculates Overall Equipment Effectiveness (OEE = Availability × Performance × Quality), shows where planned time was lost, and ranks the causes of downtime.
 - **Machining Cost Calculator**: estimates spindle speed, feed, cycle time and cost per part for turning, milling or drilling.
 
-> **Live demo:** _add your Streamlit link here once deployed_
+> **Live demo:** https://factory-analysis.streamlit.app/
 
 ## Screenshots
 
