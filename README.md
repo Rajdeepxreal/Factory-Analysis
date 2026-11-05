@@ -14,7 +14,6 @@ A web app with three tools for manufacturing operations: find what keeps breakin
 |---|---|
 | ![Home page](docs/home.png) | ![OEE dashboard](docs/oee.png) |
 
-_Save two screenshots as `docs/home.png` and `docs/oee.png`._
 
 ## Features
 
